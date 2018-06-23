@@ -23,5 +23,9 @@ Home Page
 <%--<a href="/openStage">stage</a>--%>
 <a href="/stage">stage</a>
 <br>
+<a href="/openAuthor">author</a>
+<br>
+<a href="/openBook">book</a>
+<br>
 </body>
 </html>

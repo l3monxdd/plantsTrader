@@ -31,4 +31,14 @@ public class indexController {
 //    public String stage(){
 //        return "stage";
 //    }
+
+    @GetMapping("/openAuthor")
+    public String author(Model model){
+        return "author";
+    }
+
+    @GetMapping("/openBook")
+    public String book(){
+        return "book";
+    }
 }

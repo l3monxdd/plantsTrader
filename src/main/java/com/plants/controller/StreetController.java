@@ -3,7 +3,6 @@ package com.plants.controller;
 import com.plants.entity.Street;
 import com.plants.service.StreetService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -16,6 +15,7 @@ public class StreetController {
 
     @GetMapping("/street")
     public List<Street> load() {
+
         return streetService.findAll();
     }
 
@@ -27,8 +27,8 @@ public class StreetController {
         return streetService.findAll();
     }
 
-    @DeleteMapping("/street")
-    public List<Street> deleteCity(@RequestBody String idStreet){
+    @DeleteMapping("/street/{id}")
+    public List<Street> deleteCity(@RequestBody String idStreet) {
 
         streetService.delete(Integer.valueOf(idStreet));
 
