@@ -1,5 +1,7 @@
 package com.plants.controller;
 
+import com.plants.DTO.BookDTO;
+import com.plants.DTO.Mappers.BookMapper;
 import com.plants.entity.Author;
 import com.plants.entity.Book;
 import com.plants.request.UpdateBookAuthor;
@@ -41,8 +43,24 @@ public class BookController {
         return bookService.findOne(book.getId());
     }
 
+    @PutMapping("/modifyAuthorName")
+    public Book updateAuthorName (@RequestBody Book book){
+        bookService.update(book);
+        return book;
+    }
+
+
     @GetMapping("/{id}")
     public Book getBook (@PathVariable int id){
         return bookService.findOne(id);
     }
+
+    @GetMapping("/getTruncatedBook/{id}")
+    public BookDTO getTruncatedBook(@PathVariable int id){
+
+        Book book = bookService.findOne(id);
+
+        return BookMapper.INSTANCE.bookToBookDTO(book);
+    }
+
 }

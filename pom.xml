@@ -12,6 +12,8 @@
     <properties>
         <spring>4.3.1.RELEASE</spring>
         <lombokVersion>1.16.16</lombokVersion>
+        <mapstruct.version>1.2.0.Final</mapstruct.version>
+        <maven.compiler.plugin.version>3.1</maven.compiler.plugin.version>
     </properties>
 
     <build>
@@ -19,6 +21,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5.1</version>
                 <configuration>
                     <target>1.8</target>
                     <source>1.8</source>
@@ -28,6 +31,8 @@
             </plugin>
         </plugins>
     </build>
+
+
 
 
     <dependencies>
@@ -256,6 +261,19 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>${lombokVersion}</version>
+            <scope>provided</scope>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct</artifactId>
+            <version>${mapstruct.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-processor</artifactId>
+            <version>${mapstruct.version}</version>
             <scope>provided</scope>
         </dependency>
 

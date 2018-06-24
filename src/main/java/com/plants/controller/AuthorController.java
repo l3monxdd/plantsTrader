@@ -1,6 +1,7 @@
 package com.plants.controller;
 
 
+import com.plants.DTO.SimpleUserDTO;
 import com.plants.entity.Author;
 import com.plants.request.UpdateAuthorName;
 import com.plants.service.AuthorService;
@@ -50,6 +51,19 @@ public class AuthorController {
         author.setFname(updateAuthorName.getFName());
 
         return author;
+    }
+
+
+
+    @GetMapping("/getSimplifiedAuthor/{id}")
+    public SimpleUserDTO getSimpleUser (@PathVariable int id){
+
+        Author author = authorService.findOne(id);
+
+//        SimpleUserDTO simpleUserDTO = new SimpleUserDTO(author);
+
+
+        return new SimpleUserDTO(author);
     }
 
 

@@ -23,7 +23,7 @@ public class Book {
 
 //    @Column(name = "author_name")
 
-    @OneToOne()
+    @OneToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
     private Author author;
 
 
