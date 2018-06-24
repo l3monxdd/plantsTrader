@@ -6,7 +6,255 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5204ef6-540a-4202-b451-14196ef25474" name="Default" comment="" />
+    <list default="true" id="f5204ef6-540a-4202-b451-14196ef25474" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/plantsTrader_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/plantsTrader_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/411ca15a-7bd4-4f86-97f0-5fb3d786bf8f.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_6_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_4_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_el_api_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_1_PFD.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_javax_mail_api_1_5_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_36.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_api_3_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_autotag_core_runtime_1_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_core_3_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_jsp_3_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_request_api_1_0_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_request_jsp_1_0_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_request_servlet_1_0_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_servlet_3_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_template_3_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_5_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_5_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_1_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_10_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_1_spec_1_0_0_Beta1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_7_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_9_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_4_1_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_1_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_1_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_1_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_1_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_1_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plantsTrader.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/AuthorController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/BookController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/CityController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/CountryController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/StageController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/StreetController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/controller/indexController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/dao/AuthorDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/dao/BookDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/dao/CityDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/dao/CountryDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/dao/StageDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/dao/StreetDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/entity/Author.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/entity/Book.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/entity/City.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/entity/Country.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/entity/Stage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/entity/Street.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/request/UpdateAuthorName.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/request/UpdateBookAuthor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/service/AuthorService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/service/BookService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/service/CityService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/service/CountryService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/service/StageService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/service/StreetService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/serviceImpl/AuthorServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/serviceImpl/BookServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/serviceImpl/CityServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/serviceImpl/CountryServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/serviceImpl/StageServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/classes/com/plants/serviceImpl/StreetServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/js/city.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/js/stage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/js/street.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/HikariCP-2.4.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/cdi-api-1.1-PFD.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.3.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-digester-2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.5.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/el-api-2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-5.2.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.3.10.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.5.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-base-2.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.5.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jandex-2.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.20.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/javax.inject-1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/javax.mail-1.5.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/javax.mail-api-1.5.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.13.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/json-20160212.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jsoup-1.7.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jsr250-api-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.36.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.21.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.11.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-data-jpa-1.9.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-security-acl-4.1.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-security-config-4.1.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-security-core-4.1.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-security-taglibs-4.1.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-security-web-4.1.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-api-3.0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-autotag-core-runtime-1.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-core-3.0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-jsp-3.0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-api-1.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-jsp-1.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-request-servlet-1.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-servlet-3.0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/lib/tiles-template-3.0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/servlet-context.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/author.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/book.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/city.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/country.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/stage.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/street.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/views/updateCountry.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/Ostapchuk-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/AuthorController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/BookController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/CityController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/CountryController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/StageController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/StreetController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/controller/indexController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/dao/AuthorDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/dao/BookDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/dao/CityDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/dao/CountryDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/dao/StageDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/dao/StreetDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/entity/Author.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/entity/Book.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/entity/City.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/entity/Country.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/entity/Stage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/entity/Street.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/request/UpdateAuthorName.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/request/UpdateBookAuthor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/service/AuthorService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/service/BookService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/service/CityService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/service/CountryService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/service/StageService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/service/StreetService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/serviceImpl/AuthorServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/serviceImpl/BookServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/serviceImpl/CityServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/serviceImpl/CountryServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/serviceImpl/StageServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/plants/serviceImpl/StreetServiceImpl.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +327,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="190" column="44" lean-forward="true" selection-start-line="190" selection-start-column="44" selection-end-line="190" selection-end-column="44" />
+            <state relative-caret-position="328">
+              <caret line="202" column="34" lean-forward="true" selection-start-line="202" selection-start-column="34" selection-end-line="202" selection-end-column="34" />
               <folding>
                 <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="false" />
               </folding>
@@ -577,12 +825,12 @@
       <workItem from="1529164101278" duration="7318000" />
       <workItem from="1529341650000" duration="2810000" />
       <workItem from="1529612423544" duration="7939000" />
-      <workItem from="1529779192863" duration="19871000" />
+      <workItem from="1529779192863" duration="20485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68288000" />
+    <option name="totallyTimeSpent" value="68902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="0" />
@@ -607,9 +855,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38573155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2639485" sideWeight="0.52165353" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.47834647" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2639485" sideWeight="0.52165353" order="2" side_tool="true" content_ui="tabs" />
@@ -1169,8 +1417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="190" column="44" lean-forward="true" selection-start-line="190" selection-start-column="44" selection-end-line="190" selection-end-column="44" />
+        <state relative-caret-position="328">
+          <caret line="202" column="34" lean-forward="true" selection-start-line="202" selection-start-column="34" selection-end-line="202" selection-end-column="34" />
           <folding>
             <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="false" />
           </folding>
