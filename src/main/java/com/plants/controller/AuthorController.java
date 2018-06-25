@@ -34,6 +34,12 @@ public class AuthorController {
         return authorService.findAll();
     }
 
+//old deleteMapping
+//    @DeleteMapping()
+//    public List<Author> deleteAuthor(@RequestBody String idAuthor){
+//        authorService.delete(Integer.valueOf(idAuthor));
+//        return authorService.findAll();
+//    }
 
 
     @PutMapping()
