@@ -1,62 +1,40 @@
-// $('#saveAuthor').click( function () {
-//   console.log('function is working');
-// });
-
-document.getElementById('saveAuthor').onclick = function () {
-    console.log('js is working');
-
+// зберігає сутність при кліку на кнопку, та підвантажує всі сутності за допомогою функції
+// loadAllEntity(res);
+$('#saveAuthor').click(function () {
     var author = {
-        "fname": document.getElementById('fname').value,
-        "lname": document.getElementById('lname').value,
-        "email": document.getElementById('email').value,
-        "accountNumber": document.getElementById('accountNumber').value
+        "fname": $('#fname').val(),
+        "lname": $('#lname').val(),
+        "email": $('#email').val(),
+        "accountNumber": $('#accountNumber').val()
     };
 
-    // console.log(author);
-    // var test = $('#fname').val();
-
     $.ajax({
-        type: "POST",
         url: "/author?",
-        data: JSON.stringify(author),
+        method: "POST",
+        dataType: "json",
         contentType: "application/json; charset=utf-8",
-        dataType: "json"
+        data: JSON.stringify(author),
+        success: function (res) {
+             loadAllEntity(res);
+        },
+        error : function () {
+            console.log(err);
+        }
     });
-};
-load();
+});
 
+load();
+// завантажує сутності при відкритті сторінки
 function load() {
     $.ajax({
         method: "GET",
-        url: "/author?",  // '/author/height/'+id?offset=20&quantity=10
-        // contentType: "application/json; charset=utf-8",
-        // dataType: "json",
+        url: "/author?",
         success: function (res) {
-            //
-            // var fromDB = '';
-            //
-            // for(var a in res){
-            //     fromDB +=
-            //         '<tr><td>' + res[a].fname +
-            //          res[a].lname +
-            //          res[a].email +
-            //          res[a].accountNumber +
-            //         '<button id="deleteAuthor" onclick="deleteElement('+res[a].id+')"> delete</button></td></tr>';
-            // }
-            //
-            // document.getElementById('result').innerHTML = fromDB;
-            var authorFromDB = '';
-
-            for (var i in res) {
-                authorFromDB += '<tr><td id=' + res[i].id + "author" + '>' + res[i].fname + '</td><td><button class="btn btn-default updateCity '+res[i].id+'" onclick="updateCity(' + res[i].id + ')">update</button></td><td><button class="btn btn-default" id="deleteAuthor" onclick="deleteElement(' + res[i].id + ')">delete</button></td></tr>';
-            }
-
-            document.getElementById('result').innerHTML = authorFromDB;
-
+            loadAllEntity(res);
         }
     });
 }
-
+//видаляє сутність по id та здійснює виклик функції loadAllEntity(res);
 function deleteElement(idAuthor){
     $.ajax({
 
@@ -64,32 +42,24 @@ function deleteElement(idAuthor){
         url: '/author/'+idAuthor,
         data: JSON.stringify(idAuthor),
         success: function (res) {
-            // var fromDB = '';
-            //
-            // for(var a in res){
-            //     fromDB +=
-            //         '<tr><td>' + res[a].fname +
-            //         res[a].lname +
-            //         res[a].email +
-            //         res[a].accountNumber +
-            //         '<button id="deleteAuthor" onclick="deleteElement('+res[a].id+')"> delete</button></td></tr>';
-            // }
-
-            // document.getElementById('result').innerHTML = fromDB;
-
-            var authorFromDB = '';
-
-            for (var i in res) {
-                authorFromDB += '<tr><td id=' + res[i].id + "author" + '>' + res[i].fname + '</td><td><button class="btn btn-default updateCity '+res[i].id+'" onclick="updateCity(' + res[i].id + ')">update</button></td><td><button class="btn btn-default" id="deleteAuthor" onclick="deleteElement(' + res[i].id + ')">delete</button></td></tr>';
-            }
-
-            document.getElementById('result').innerHTML = authorFromDB;
+            loadAllEntity(res);
         },
         error: function (err) {
             console.log(err)
         }
     });
     console.log(idAuthor);
+}
+// переберає масив обєктів res, парсить та присвоює елементи масиву '#result'
+function loadAllEntity(res) {
+    var someVar = '';
+
+    for (var i in res) {
+        someVar += '<tr><td id=' + res[i].id + "author" + '>' + res[i].fname + '</td><td><button class="btn btn-default updateCity '+res[i].id+'" onclick="updateCity(' + res[i].id + ')">update</button></td><td><button class="btn btn-default" id="deleteAuthor" onclick="deleteElement(' + res[i].id + ')">delete</button></td></tr>';
+    }
+
+    $('#result').html(someVar);
+
 }
 
 
